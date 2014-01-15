@@ -19,6 +19,6 @@ int main() {
     a = temp;
   }
 
-  printf("%d", sum);
+  printf("The sum of all the even-valued Fibonacci numbers less than %d is %d\n", MAX, sum);
     return 0;
 }
